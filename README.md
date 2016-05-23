@@ -3,3 +3,4 @@
 #Quick Sort - QuickSort.c
 #Selection Sort - SelSort.c
 #Bubble Sort - BubbleSort.c
+#Insertion Sort - InsertSort.c
