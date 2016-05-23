@@ -1,7 +1,8 @@
+//Complexity o(n2)
+//In Place sorting
+
 #include <stdio.h>
 #include <stdlib.h>
-
-
 void SelSort(int *a, int size)
 {
 	int i = 0, j =0;
