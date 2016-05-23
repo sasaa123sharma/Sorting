@@ -1,4 +1,4 @@
 #Sorting 
 #Starting today on 19th May
-#QuickSort
-#Selection Sort
+#Quick Sort - QuickSort.c
+#Selection Sort - SelSort.c
