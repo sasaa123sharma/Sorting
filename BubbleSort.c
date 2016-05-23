@@ -28,6 +28,8 @@ void BubbleSort(int *a, int size)
 		}	
 		//if flag is 0 after any loop means array is sorted now 
 		//so we can bail out from here
+		//this flag will improve the time complexity
+		//if array is already sorted this will take only O(n)
 		if(!flag)
 			break; 
 	}
