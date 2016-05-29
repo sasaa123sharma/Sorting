@@ -1,7 +1,14 @@
 //Divide and Conquer
 //Inplace
-//recursive
+//Recursive
 //Its not stable algo
+//Complexity 
+//For best case - when we are getting almost two equal arrays after partition - O(nlogn)
+//For Avg case - O(nlogn)
+//For worst case - when array is sorted, in this case one array will be of size (n-1) and other will be of size 1 after
+//partioning at each step -- O(n2) 
+//Space complexity is - O(log n) -- We can ignore that
+//We can use randomized Quick Sort, this is much better than normal(rather fixed) Quick sort -- Overall complexity - O(nlog n)
 
 #include <stdio.h>
 #include <stdlib.h>
