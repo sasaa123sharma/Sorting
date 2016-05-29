@@ -1,3 +1,8 @@
+//Divide and Conquer
+//Inplace
+//recursive
+//Its not stable algo
+
 #include <stdio.h>
 #include <stdlib.h>
 
