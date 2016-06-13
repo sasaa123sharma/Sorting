@@ -6,3 +6,4 @@
 #Bubble Sort - BubbleSort.c
 #Insertion Sort - InsertSort.c
 #Merge Sort - MergeSort.c
+#Counting Sort - CountSort.c
